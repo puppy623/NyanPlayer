@@ -34,10 +34,7 @@ NyanPlayer was developed primarily using:
 
 This project served as a great opportunity to explore the Android development ecosystem.
 
-
 ---
-
-## Download for android 10-15:
 
 
 ## 🤝 Contributing
@@ -68,4 +65,5 @@ Contributions are welcome! If you have suggestions for features, bug fixes, or i
 
 ## Dynamic Spot Integration
 ![dynamicSpot_integration](dynamicSpot_integration.jpg)
+
 
