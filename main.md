@@ -1,19 +1,20 @@
 # Project Images
 
 ## Android Music Player Notification
-![AndroidMusicPlayerNotif](assets/AndroidMusicPlayerNotif.jpg)
+![AndroidMusicPlayerNotif](AndroidMusicPlayerNotif.jpg)
 
 ## Create Playlist
-![CreatePlaylist](assets/CreatePlaylist.jpg)
+![CreatePlaylist](CreatePlaylist.jpg)
 
 ## HyperOS 2 Native Player Integration
-![HyperOS2_native_player_integration](assets/HyperOS2_native_player_integration.jpg)
+![HyperOS2_native_player_integration](HyperOS2_native_player_integration.jpg)
 
 ## Main Page
-![MainPage](assets/MainPage.jpg)
+![MainPage](MainPage.jpg)
 
 ## Playlists Tab
-![PlaylistsTab](assets/PlaylistsTab.jpg)
+![PlaylistsTab](PlaylistsTab.jpg)
 
 ## Dynamic Spot Integration
-![dynamicSpot_integration](assets/dynamicSpot_integration.jpg)
+![dynamicSpot_integration](dynamicSpot_integration.jpg)
+
